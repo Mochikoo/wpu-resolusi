@@ -2,9 +2,11 @@ RENCANA KONTEN WPU
 
 - es6
 - FRAMEWORK Java SCRIPT
-^ Angular
+^ vue
 ^ react
-- 
+- INTERVIEW
 - KONTEN
 - Photography
-^ lAravel
+^ laravel
+- phyton
+
