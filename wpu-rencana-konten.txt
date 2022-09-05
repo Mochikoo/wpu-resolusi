@@ -3,6 +3,7 @@ RENCANA KONTEN WPU
 - es6
 - FRAMEWORK Java SCRIPT
 ^ vue
+^ react
 - INTERVIEW
 - KONTEN
 - Photography
